@@ -1,4 +1,4 @@
-# LAB 14: Stack Calculator
+# LAB 07: Stack Calculator
 
 **Name:**
 
